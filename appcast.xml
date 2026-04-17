@@ -4,11 +4,11 @@
         <title>DockFolders</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Fri, 17 Apr 2026 07:13:16 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Fri, 17 Apr 2026 10:55:49 +0700</pubDate>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fizxxr/dockfolders-releases/releases/download/v1.0.0/DockFolders.dmg" length="4722784" type="application/octet-stream" sparkle:edSignature="KIA07MUFiZAAyhrRsKeLPbtZoEQ/DFH2sLl01aFEVYkVRZcwixcRA+ykWMVcVQNEICIj9bqCygJc/ngEzufXAw=="/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.github.com/fizxxr/dockfolders-releases/main/DockFolders.dmg" length="4693320" type="application/octet-stream" sparkle:edSignature="vug8msnwYo3+oISrRfM7qtVh5D0SiL63zbLsVMSaJRCINC6rIF5pbruB8Nxh0lyEBcTXrXMIwErnR8CpCpIIAg=="/>
         </item>
     </channel>
 </rss>
