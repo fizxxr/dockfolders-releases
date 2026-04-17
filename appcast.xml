@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DockFolders</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 17 Apr 2026 07:13:16 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fizxxr/dockfolders-releases/releases/download/v1.0.0/DockFolders.dmg" length="4722784" type="application/octet-stream" sparkle:edSignature="KIA07MUFiZAAyhrRsKeLPbtZoEQ/DFH2sLl01aFEVYkVRZcwixcRA+ykWMVcVQNEICIj9bqCygJc/ngEzufXAw=="/>
+        </item>
+    </channel>
+</rss>
