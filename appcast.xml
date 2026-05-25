@@ -8,7 +8,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fizxxr/dockfolders-releases/raw/main/DockFolders.dmg" length="4945418" type="application/octet-stream" sparkle:edSignature="HcAaHvDzoWW1nMS+bqTfMoD4WkxKSbfhBeHaoblkHfXSAAvIxLnruy6cLKrgfMlhgJUvHMHlVsH/6S7n6zQtCQ=="/>
+            <enclosure url="https://github.com/fizxxr/dockfolders-releases/releases/latest/download/DockFolders.dmg" length="4945418" type="application/octet-stream" sparkle:edSignature="HcAaHvDzoWW1nMS+bqTfMoD4WkxKSbfhBeHaoblkHfXSAAvIxLnruy6cLKrgfMlhgJUvHMHlVsH/6S7n6zQtCQ=="/>
         </item>
     </channel>
 </rss>
