@@ -3,12 +3,12 @@
     <channel>
         <title>DockFolders</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Fri, 29 May 2026 20:38:11 +0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Wed, 14 Oct 2026 18:10:23 +0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fizxxr/dockfolders-releases/releases/download/v1.0.2/DockFolders.dmg" length="4958254" type="application/octet-stream" sparkle:edSignature="hdZ8wzXjX/6/J6EIWZDo81Rzps2iPmdyw4goNKW6AbYS8lOMMMIkltt+v6PprADH8THZ+X6b21j7qJwaw7q5Dw=="/>
+            <enclosure url="https://github.com/fizxxr/dockfolders-releases/releases/download/v1.5.0/DockFolders.dmg" length="6340635" type="application/octet-stream" sparkle:edSignature="RpRHQgBsCknYjhQS5QdHsXQoxtPao11dUb9WtMM1qdyKCO9cfW2OmNqoIQ39yE8u16AoYe+LGrVlOzq/V6DkDw=="/>
         </item>
     </channel>
 </rss>
